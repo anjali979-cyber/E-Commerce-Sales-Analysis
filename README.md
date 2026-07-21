@@ -37,3 +37,13 @@ The project was completed using the following steps:
 - Encoded categorical variables using Label Encoding.
 - Scaled numerical features.
 - Split the dataset into training and testing sets.
+
+ ## Charts
+
+### Quantity Distribution
+
+![Quantity Distribution](quantity_distribution.png)
+
+### Unit Price Distribution
+
+![Unit Price Distribution](unitprice_distribution.png)
