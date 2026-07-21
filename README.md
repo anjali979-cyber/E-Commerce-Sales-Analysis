@@ -47,3 +47,11 @@ The project was completed using the following steps:
 ### Unit Price Distribution
 
 ![Unit Price Distribution](unitprice_distribution.png)
+
+
+## Week 2 Plan
+
+### 3 Core Features
+1. Build a basic machine learning model.
+2. Evaluate the model performance.
+3. Improve the project documentation and GitHub repository.
