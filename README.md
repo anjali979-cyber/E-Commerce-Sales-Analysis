@@ -55,3 +55,24 @@ The project was completed using the following steps:
 1. Build a basic machine learning model.
 2. Evaluate the model performance.
 3. Improve the project documentation and GitHub repository.
+
+
+## Progress So Far till Day 12
+
+### Features Implemented
+
+- Feature 1: Calculate TotalAmount using Quantity × UnitPrice.
+- Feature 2: Display the Top 10 Best Selling Products.
+- Feature 3: Display the Top 10 Countries by Total Sales.
+
+### Improvements
+
+- Added input validation.
+- Added error handling using try/except.
+- Tested all core features.
+- Fixed bugs found during testing.
+- Cleaned and documented the project.
+
+### Current Status
+
+The project is working successfully, and all implemented features have been tested.
