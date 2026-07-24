@@ -76,3 +76,21 @@ The project was completed using the following steps:
 ### Current Status
 
 The project is working successfully, and all implemented features have been tested.
+
+
+## Project Screenshots of Week3
+
+### Sales Summary Dashboard
+![Dashboard](screenshots/Sales_dashboard.png)
+
+### Top 10 Best Selling Products
+![Top Products](screenshots/Top_products.png)
+
+### Top 10 Countries by Total Sales
+![Top Countries](screenshots/top_countries.png)
+
+### Top 5 Customers by Total Purchase
+![Top Customers](screenshots/Top_customers.png)
+
+### E-Commerce Sales Analysis
+![E-Sales](screenshots/e-commerce.png)
