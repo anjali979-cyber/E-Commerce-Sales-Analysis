@@ -94,3 +94,16 @@ The project is working successfully, and all implemented features have been test
 
 ### E-Commerce Sales Analysis
 ![E-Sales](screenshots/e-commerce.png)
+
+## Features of Week 3
+
+- Data Cleaning
+- Feature Engineering
+- Sales Summary Dashboard
+- Top 10 Best Selling Products
+- Top 10 Countries by Total Sales
+- Top 5 Customers by Total Purchase
+- Input Validation
+- Error Handling
+- User Testing
+- Performance Optimization
